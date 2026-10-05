@@ -11,6 +11,15 @@ Hey there, welcome to **Brews And Bugs** - I teach Java not like a textbook, but
 
 ---
 
+### 🐛 Why "Brews And Bugs"?
+
+- **Brews:** Because every good idea starts with coffee. My `BREWS` mug is in every thumbnail.
+- **Bugs:** That cute green bug plushie? That’s us. We don’t fear bugs, we debug them.
+
+If you ever felt coding tutorials are boring, fast, or too "topper" style - this is for you.
+
+---
+
 ### 📚 My Playlists - Pick Your Brew
 
 #### 1. Java for Beginners: Zero to Hero `Course - 🚀 Currently Brewing` 🔥
@@ -43,18 +52,26 @@ Struggling with DSA? I solve 1 LeetCode problem daily in clean Java with: ✅ In
 
 ---
 
-### 🐛 Why "Brews And Bugs"?
+### 🛒 Shop & Contact
 
-- **Brews:** Because every good idea starts with coffee. My `BREWS` mug is in every thumbnail.
-- **Bugs:** That cute green bug plushie? That’s us. We don’t fear bugs, we debug them.
+| | Link | What you get |
+| :--- | :--- | :--- |
+| 🛍️ | **[My Amazon Storefront - Shop My Gear](https://vilvsenterprises.vercel.app/shop)** | Coding setup, Utility products |
+| 📩 | **[Contact Me For Collabs](https://vilvsenterprises.vercel.app/contact-us)** | Business, Sponsors, Questions, Appreciations |
 
-If you ever felt coding tutorials are boring, fast, or too "topper" style - this is for you.
+> **Affiliate Disclosure:** Links to Amazon are affiliate. You pay the same, I get a small commission to brew more coffee.
+
+---
 
 ### 🛠️ Tech Stack I Use
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![AI](https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🤝 Let’s Connect
 
