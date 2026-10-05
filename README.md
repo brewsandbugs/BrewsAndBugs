@@ -4,7 +4,7 @@
 
 > Java • DSA • OOPS • Projects - Explained like you're sitting at my table with a coffee.
 
-I’m **Brews And Bugs** - I teach Java not like a textbook, but like a real-life debugging session. If code was coffee, we’re here to fix the bitter bugs and brew something strong.
+Hey there, welcome to **Brews And Bugs** - I teach Java not like a textbook, but like a real-life debugging session. If code was coffee, we’re here to fix the bitter bugs and brew something strong.
 
 **🎥 YouTube:** [Brews And Bugs - Java in 15 Mins](https://www.youtube.com/@BrewsAndBugs)  
 **☕ Motto:** `while(brewCount < 10) { brew(); debug(); }`
